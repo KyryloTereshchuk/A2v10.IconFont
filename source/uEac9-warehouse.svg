@@ -1,26 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   width="1024"
-   height="1024"
-   viewBox="0 0 1024.00 1024.00"
-   enable-background="new 0 0 1024.00 1024.00"
-   xml:space="preserve"
-   id="svg4562"><metadata
-     id="metadata4568"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs4566" /><g
-     id="g8575"><path
-       id="rect9315-7-1-4"
-       d="M 240 0 L 240 480 L 0 480 L 0 1024 L 1024 1024 L 1024 480 L 784 480 L 784 0 L 240 0 z M 304 64 L 720 64 L 720 480 L 304 480 L 304 64 z M 366 160 L 366 224 L 658 224 L 658 160 L 366 160 z M 64 544 L 480 544 L 480 960 L 64 960 L 64 544 z M 544 544 L 960 544 L 960 960 L 544 960 L 544 544 z M 126 640 L 126 704 L 418 704 L 418 640 L 126 640 z M 606 640 L 606 704 L 898 704 L 898 640 L 606 640 z "
-       style="opacity:0.98999999;fill:#e15300;fill-opacity:1;stroke:none;stroke-width:63.99998474;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></g><g
-     id="g8575-1"
-     transform="translate(-240,480)" /><g
-     id="g8575-3"
-     transform="translate(240,480)" /></svg>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M502.167 140.202C509.626 137.794 517.765 138.195 525 141.41L909 312.077C920.554 317.212 927.997 328.683 928 341.327V895.993C928 913.666 913.673 927.993 896 927.993C878.327 927.993 864 913.666 864 895.993V362.118L512 205.66L160 362.118V895.993C160 913.666 145.673 927.993 128 927.993C110.327 927.993 96 913.666 96 895.993V341.327C96.0026 328.683 103.446 317.212 115 312.077L499 141.41L502.167 140.202Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M512 437.327C531.801 437.327 550.789 445.201 564.792 459.202C578.793 473.203 586.665 492.193 586.667 511.993V522.66H725.333C743.004 522.66 757.33 536.99 757.333 554.66V895.993C757.333 913.666 743.006 927.993 725.333 927.993H298.667C280.994 927.993 266.667 913.666 266.667 895.993V639.993C266.67 622.323 280.996 607.993 298.667 607.993H352V511.993C352.002 492.193 359.874 473.203 373.875 459.202C387.877 445.201 406.865 437.327 426.667 437.327H512ZM586.667 863.993H693.333V586.66H586.667V863.993ZM330.667 671.993V863.993H522.667V671.993H330.667ZM426.667 501.327C423.839 501.327 421.125 502.453 419.125 504.452C417.126 506.45 416.002 509.167 416 511.993V607.993H522.667V511.993C522.665 509.167 521.541 506.45 519.542 504.452C517.542 502.453 514.827 501.327 512 501.327H426.667Z" fill="black"/>
+</svg>

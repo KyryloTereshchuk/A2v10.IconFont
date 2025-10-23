@@ -1,34 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   width="1024"
-   height="1024"
-   viewBox="0 0 1024.00 1024.00"
-   enable-background="new 0 0 1024.00 1024.00"
-   xml:space="preserve"
-   id="svg4562"><metadata
-   id="metadata4568"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-   id="defs4566"><linearGradient
-     osb:paint="solid"
-     id="linearGradient5239"><stop
-       id="stop5237"
-       offset="0"
-       style="stop-color:#41e7d0;stop-opacity:1;" /></linearGradient></defs>
-	
-	
-<path
-   id="path5294"
-   d="M 512 0 A 512 512 0 0 0 0 512 A 512 512 0 0 0 512 1024 A 512 512 0 0 0 1024 512 A 512 512 0 0 0 512 0 z M 436.44727 137.48242 L 587.55273 140.25195 L 587.55273 272.60547 L 436.44727 269.83594 L 436.44727 137.48242 z M 436.44727 343.13867 L 587.55273 345.9082 L 587.55273 886.51758 L 436.44727 883.74805 L 436.44727 343.13867 z "
-   style="fill:#f40000;fill-opacity:1;stroke:none;stroke-width:1.16943526;stroke-opacity:1" /><g
-   id="flowRoot5297"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-   transform="matrix(27.532545,0.50457917,0,26.063271,-10255.161,-9652.972)"
-   aria-label="i" /></svg>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M512 85.333C747.648 85.333 938.667 276.274 938.667 511.826C938.756 623.801 894.786 731.318 816.252 811.166C737.718 891.014 630.919 936.786 518.913 938.601C406.908 940.415 298.681 898.126 217.6 820.863C136.518 743.601 89.0877 637.563 85.5469 525.645L85.333 511.826L85.5039 499.885C91.8186 269.877 280.32 85.333 512 85.333ZM469.333 479.839C451.66 479.839 437.333 494.16 437.333 511.826C437.333 529.492 451.66 543.813 469.333 543.813H480V682.424C480 700.089 494.327 714.41 512 714.41H554.667C572.34 714.41 586.667 700.089 586.667 682.424C586.667 664.758 572.34 650.437 554.667 650.437H544V511.826C544 495.271 531.419 481.653 515.292 480.006L512 479.839H469.333ZM512 351.892C494.327 351.892 480 366.212 480 383.878C480 401.544 494.327 415.865 512 415.865H512.417C530.09 415.865 544.417 401.544 544.417 383.878C544.417 366.212 530.09 351.892 512.417 351.892H512Z" fill="black"/>
+</svg>

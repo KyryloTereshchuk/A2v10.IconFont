@@ -1,30 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   width="1024"
-   height="1024"
-   viewBox="0 0 1024.00 1024.00"
-   enable-background="new 0 0 1024.00 1024.00"
-   xml:space="preserve"
-   id="svg4562"><metadata
-   id="metadata4568"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-   id="defs4566"><linearGradient
-     osb:paint="solid"
-     id="linearGradient5239"><stop
-       id="stop5237"
-       offset="0"
-       style="stop-color:#41e7d0;stop-opacity:1;" /></linearGradient></defs>
-	
-	
-<path
-   id="rect1969"
-   d="M 0.5625 0.5625 L 0.5625 1023.4375 L 1023.4375 1023.4375 L 1023.4375 0.5625 L 0.5625 0.5625 z M 224.49023 440.49023 L 799.50977 440.49023 L 799.50977 583.50977 L 224.49023 583.50977 L 224.49023 440.49023 z "
-   style="fill:#d00e28;fill-opacity:1;stroke:#000000;stroke-width:1.12533391;stroke-opacity:1" /></svg>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M810.667 85.3334C844.614 85.3334 877.162 98.8287 901.167 122.833C925.171 146.838 938.667 179.386 938.667 213.333V810.667C938.667 844.614 925.171 877.162 901.167 901.167C877.162 925.171 844.614 938.667 810.667 938.667H213.333C179.386 938.667 146.838 925.171 122.833 901.167C98.8287 877.162 85.3333 844.614 85.3333 810.667V213.333C85.3333 179.386 98.8287 146.838 122.833 122.833C146.838 98.8287 179.386 85.3334 213.333 85.3334H810.667ZM379 469.625C368.204 470.911 358.312 476.288 351.333 484.625C344.355 492.964 340.821 503.645 341.458 514.5C342.096 525.356 346.842 535.576 354.75 543.042C362.657 550.505 373.127 554.655 384 554.667H640L645 554.375C655.796 553.089 665.688 547.713 672.667 539.375C679.645 531.036 683.179 520.355 682.542 509.5C681.904 498.644 677.158 488.424 669.25 480.958C661.343 473.496 650.873 469.345 640 469.333H384L379 469.625Z" fill="black"/>
+</svg>

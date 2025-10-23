@@ -1,27 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   id="svg4562"
-   xml:space="preserve"
-   enable-background="new 0 0 1024.00 1024.00"
-   viewBox="0 0 1024.00 1024.00"
-   height="1024"
-   width="1024"
-   version="1.1"><metadata
-     id="metadata4568"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs4566" /><g
-     transform="translate(-0.66383362)"
-     id="g5122" /><g
-     transform="translate(0,63.999969)"
-     id="g5194"><path
-       id="rect5135"
-       d="m 1024,3.1e-5 c 0,298.666669 0,597.333329 0,895.999999 -341.33333,0 -682.66667,0 -1024,0 C 0,597.33336 0,298.6667 0,3.1e-5 c 341.33333,0 682.66667,0 1024,0 z M 64,318.93167 c 82.5293,0 165.05859,0 247.58789,0 0,-63.64388 0,-127.28776 0,-190.93164 -82.5293,0 -165.05859,0 -247.58789,0 0,63.64388 0,127.28776 0,190.93164 z m 311.58789,0 c 86.73503,0 173.47005,0 260.20508,0 0,-63.64388 0,-127.28776 0,-190.93164 -86.73503,0 -173.47005,0 -260.20508,0 0,63.64388 0,127.28776 0,190.93164 z m 324.20508,0 c 86.73568,0 173.47135,0 260.20703,0 0,-63.64388 0,-127.28776 0,-190.93164 -86.73568,0 -173.47135,0 -260.20703,0 0,63.64388 0,127.28776 0,190.93164 z M 64,589.46487 c 82.5293,0 165.05859,0 247.58789,0 0,-68.8444 0,-137.6888 0,-206.5332 -82.5293,0 -165.05859,0 -247.58789,0 0,68.8444 0,137.6888 0,206.5332 z m 311.58789,0 c 86.73503,0 173.47005,0 260.20508,0 0,-68.8444 0,-137.6888 0,-206.5332 -86.73503,0 -173.47005,0 -260.20508,0 0,68.8444 0,137.6888 0,206.5332 z m 324.20508,0 c 86.73568,0 173.47135,0 260.20703,0 0,-68.8444 0,-137.6888 0,-206.5332 -86.73568,0 -173.47135,0 -260.20703,0 0,68.8444 0,137.6888 0,206.5332 z M 64,832.00003 c 82.5293,0 165.05859,0 247.58789,0 0,-59.51172 0,-119.02344 0,-178.53516 -82.5293,0 -165.05859,0 -247.58789,0 0,59.51172 0,119.02344 0,178.53516 z m 311.58789,0 c 86.73503,0 173.47005,0 260.20508,0 0,-59.51172 0,-119.02344 0,-178.53516 -86.73503,0 -173.47005,0 -260.20508,0 0,59.51172 0,119.02344 0,178.53516 z m 324.20508,0 c 86.73568,0 173.47135,0 260.20703,0 0,-59.51172 0,-119.02344 0,-178.53516 -86.73568,0 -173.47135,0 -260.20703,0 0,59.51172 0,119.02344 0,178.53516 z"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.98999999;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#e03232;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:64;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /></g><g
-     transform="translate(0,28)"
-     id="g5190" /></svg>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M810.667 96C841.785 96 871.621 108.371 893.625 130.375C915.629 152.379 928 182.215 928 213.333V810.667C928 841.785 915.629 871.621 893.625 893.625C871.621 915.629 841.785 928 810.667 928H213.333C182.215 928 152.379 915.629 130.375 893.625C108.371 871.621 96 841.785 96 810.667V213.333C96 182.215 108.371 152.379 130.375 130.375C152.379 108.371 182.215 96 213.333 96H810.667ZM458.667 864H810.667C824.812 864 838.373 858.377 848.375 848.375C858.377 838.373 864 824.812 864 810.667V458.667H458.667V864ZM160 810.667C160 824.812 165.623 838.373 175.625 848.375C185.627 858.377 199.188 864 213.333 864H394.667V458.667H160V810.667ZM458.667 394.667H864V213.333C864 199.188 858.377 185.627 848.375 175.625C838.373 165.623 824.812 160 810.667 160H458.667V394.667ZM213.333 160C199.188 160 185.627 165.623 175.625 175.625C165.623 185.627 160 199.188 160 213.333V394.667H394.667V160H213.333Z" fill="black"/>
+</svg>

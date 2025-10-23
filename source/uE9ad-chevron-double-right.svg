@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   id="svg4562"
-   xml:space="preserve"
-   enable-background="new 0 0 1024.00 1024.00"
-   viewBox="0 0 1024.00 1024.00"
-   height="1024"
-   width="1024"
-   version="1.1"><metadata
-     id="metadata4568"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs4566" /><g
-     id="g5743" /><g
-     transform="translate(0,-662.47461)"
-     id="g5743-3" /><g
-     transform="rotate(-45,513.50829,513.88139)"
-     id="g4534"><path
-       id="rect4515"
-       d="m 739.1403,368.85335 c 0,122.66645 0,245.33291 0,367.99936 -122.66646,0 -245.33291,0 -367.99936,0 -4.7e-4,-21.33336 -9.2e-4,-42.66671 -10e-4,-64.00007 101.33403,4.6e-4 202.66804,9.2e-4 304.00206,0.001 -4.6e-4,-101.33402 -9.2e-4,-202.66803 -0.001,-304.00205 21.33336,4.6e-4 42.66671,9.2e-4 64.00007,0.001 z M 504.40294,134.116 c 6.2e-4,122.66691 -10e-4,245.33382 10e-4,368.00073 -122.66691,-0.003 -245.33382,-7.6e-4 -368.00073,-0.001 -1e-5,-21.33289 0,-42.66579 -1e-5,-63.99868 101.33356,0 202.66711,0 304.00067,0 0,-101.33357 0,-202.66712 0,-304.00068 21.3329,1e-5 42.6658,0 63.99869,1e-5 z"
-       style="opacity:0.98999999;fill:#ece916;fill-opacity:1;stroke:none;stroke-width:64;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" /></g><g
-     transform="rotate(-45,679.49232,113.1605)"
-     id="g4534-6" /></svg>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M276.044 276.044C288.541 263.547 308.798 263.547 321.294 276.044L534.628 489.377C547.117 501.875 547.122 522.133 534.628 534.627L321.294 747.961C308.8 760.454 288.542 760.449 276.044 747.961C263.548 735.464 263.548 715.207 276.044 702.711L466.753 512.002L276.044 321.294C263.548 308.798 263.549 288.541 276.044 276.044Z" fill="black"/>
+<path d="M532.044 276.044C544.541 263.547 564.798 263.547 577.294 276.044L790.628 489.377C803.117 501.875 803.122 522.133 790.628 534.627L577.294 747.961C564.8 760.454 544.542 760.45 532.044 747.961C519.548 735.464 519.548 715.207 532.044 702.711L722.753 512.002L532.044 321.294C519.548 308.798 519.549 288.541 532.044 276.044Z" fill="black"/>
+</svg>

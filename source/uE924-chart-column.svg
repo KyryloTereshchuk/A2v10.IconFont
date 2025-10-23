@@ -1,21 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   width="1024"
-   height="1024"
-   viewBox="0 0 1024.00 1024.00"
-   enable-background="new 0 0 1024.00 1024.00"
-   xml:space="preserve"
-   id="svg4562"><metadata
-     id="metadata4568"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs4566" /><path
-     id="rect5264"
-     d="M 0 0 L 0 1024 L 1024 1024 L 1024 0 L 0 0 z M 64 64 L 960 64 L 960 960 L 864.78125 960 L 864.78125 194.10547 L 736.78125 194.10547 L 736.78125 960 L 574.24414 960 L 574.24414 589.89453 L 446.24414 589.89453 L 446.24414 960 L 283.70703 960 L 283.70703 454.16211 L 155.70703 454.16211 L 155.70703 960 L 64 960 L 64 64 z "
-     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.98999999;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#d82828;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:64;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /></svg>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M597.333 138.667C617.136 138.667 636.122 146.539 650.125 160.542C664.128 174.544 672 193.531 672 213.333V310.167C675.515 309.659 679.073 309.333 682.667 309.333H853.333L860.708 309.708C877.803 311.405 893.872 318.955 906.125 331.208C920.128 345.211 928 364.197 928 384V810.667C928 830.469 920.128 849.456 906.125 863.458C892.122 877.461 873.136 885.333 853.333 885.333H170.667C169.54 885.333 168.43 885.239 167.333 885.125C148.746 884.293 131.089 876.672 117.875 863.458C103.872 849.456 96 830.47 96 810.667V554.667C96 534.864 103.872 515.878 117.875 501.875C131.878 487.872 150.864 480 170.667 480H341.333C344.927 480 348.485 480.325 352 480.833V213.333C352 193.531 359.872 174.544 373.875 160.542C387.878 146.539 406.864 138.667 426.667 138.667H597.333ZM170.667 544C167.838 544 165.125 545.125 163.125 547.125C161.125 549.125 160 551.838 160 554.667V810.667L160.208 812.75C160.617 814.803 161.623 816.706 163.125 818.208C165.125 820.209 167.838 821.333 170.667 821.333H341.333C344.162 821.333 346.875 820.209 348.875 818.208C350.875 816.208 352 813.496 352 810.667V554.667C352 551.838 350.875 549.125 348.875 547.125C346.875 545.125 344.162 544 341.333 544H170.667ZM426.667 202.667C423.838 202.667 421.125 203.791 419.125 205.792C417.125 207.792 416 210.504 416 213.333V810.667C416 813.496 417.125 816.208 419.125 818.208C421.125 820.209 423.838 821.333 426.667 821.333H597.333C600.162 821.333 602.875 820.209 604.875 818.208C606.875 816.208 608 813.496 608 810.667V213.333C608 210.504 606.875 207.792 604.875 205.792C602.875 203.791 600.162 202.667 597.333 202.667H426.667ZM682.667 373.333C679.838 373.333 677.125 374.458 675.125 376.458C673.125 378.459 672 381.171 672 384V810.667C672 813.496 673.125 816.208 675.125 818.208C677.125 820.209 679.838 821.333 682.667 821.333H853.333C856.162 821.333 858.875 820.209 860.875 818.208C862.875 816.208 864 813.496 864 810.667V384C864 381.171 862.875 378.459 860.875 376.458C858.875 374.458 856.162 373.333 853.333 373.333H682.667Z" fill="black"/>
+</svg>

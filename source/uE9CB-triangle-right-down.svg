@@ -1,33 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   width="1024"
-   height="1024"
-   viewBox="0 0 1024.00 1024.00"
-   enable-background="new 0 0 1024.00 1024.00"
-   xml:space="preserve"
-   id="svg4562"><metadata
-     id="metadata4568"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs4566"><linearGradient
-       osb:paint="solid"
-       id="linearGradient5239"><stop
-         id="stop5237"
-         offset="0"
-         style="stop-color:#41e7d0;stop-opacity:1;" /></linearGradient></defs><path
-     id="path4512"
-     d="M 262.18577,495.4835 -87.163818,293.7864 262.18579,92.089327 Z"
-     style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:66.36206818;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     transform="matrix(-0.51816098,-0.51816098,0.89748114,-0.89748114,384.18668,911.5222)" /><path
-     cx="512"
-     cy="512"
-     r="448"
-     id="path1995-3"
-     style="fill:#d2f628;fill-opacity:1;stroke:#000000;stroke-opacity:1" /></svg>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M708.092 288.805L712.758 289.555L718.842 291.43L721.717 292.639L725.925 294.93L727.8 296.18L729.883 297.722L731.8 299.347L735.342 302.889L736.967 304.805V304.722L738.467 306.805L739.758 308.764L742.05 312.93L743.258 315.805L743.842 317.389L745.092 321.93L745.8 325.889L746.092 331.222V693.264L745.8 698.597C744.497 708.898 739.461 718.394 731.675 725.264C723.887 732.128 713.848 735.926 703.467 735.93H341.425L336.592 735.68C301.865 731.969 285.553 688.802 311.258 663.097L673.3 301.055L675.092 299.347L676.967 297.722L679.05 296.222L681.008 294.93L685.175 292.639L688.05 291.43L689.633 290.805L694.175 289.597L698.133 288.889L703.467 288.555L708.092 288.805Z" fill="black"/>
+</svg>

@@ -1,32 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   width="1024"
-   height="1024"
-   viewBox="0 0 1024.00 1024.00"
-   enable-background="new 0 0 1024.00 1024.00"
-   xml:space="preserve"
-   id="svg4562"><metadata
-     id="metadata4568"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs4566"><linearGradient
-       osb:paint="solid"
-       id="linearGradient5239"><stop
-         id="stop5237"
-         offset="0"
-         style="stop-color:#41e7d0;stop-opacity:1;" /></linearGradient></defs><path
-     cx="512"
-     cy="512"
-     r="448"
-     id="path1995-3"
-     style="fill:#d2f628;fill-opacity:1;stroke:#000000;stroke-opacity:1" /><path
-     id="rect10719-3"
-     d="M 510,80 V 292 H 302 V 512 H 82 V 944 H 514 V 724 H 734 V 512 H 942 V 80 Z m 64,64 H 878 V 448 H 734 V 292 H 574 Z M 670.4668,354.875 670,660 H 514 V 512.875 L 366,512 V 356 Z M 146,576 H 450 V 880 H 146 Z"
-     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.98999999;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#f60000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:63.99999619;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /></svg>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M816 138.667C834.388 138.667 852.039 145.956 865.042 158.958C878.044 171.961 885.333 189.612 885.333 208V432C885.333 450.388 878.044 468.039 865.042 481.042C852.039 494.044 834.388 501.333 816 501.333H714.667V640C714.667 659.803 706.794 678.789 692.792 692.792C678.789 706.794 659.803 714.667 640 714.667H512C508.244 714.667 504.682 713.897 501.333 712.708V816C501.333 834.388 494.044 852.039 481.042 865.042C468.039 878.044 450.388 885.333 432 885.333H208C189.612 885.333 171.961 878.044 158.958 865.042C145.956 852.039 138.667 834.388 138.667 816V592C138.667 573.612 145.956 555.961 158.958 542.958C171.961 529.956 189.612 522.667 208 522.667H311.292C310.103 519.318 309.333 515.756 309.333 512V384C309.333 364.197 317.206 345.211 331.208 331.208C345.211 317.206 364.197 309.333 384 309.333H522.667V208C522.667 189.612 529.956 171.961 542.958 158.958C555.961 145.956 573.612 138.667 592 138.667H816ZM208 586.667C206.586 586.667 205.209 587.208 204.208 588.208C203.208 589.209 202.667 590.586 202.667 592V816L203.083 818.042C203.349 818.681 203.709 819.293 204.208 819.792C205.209 820.792 206.586 821.333 208 821.333H432C433.414 821.333 434.791 820.792 435.792 819.792C436.792 818.792 437.333 817.415 437.333 816V592C437.333 590.586 436.792 589.209 435.792 588.208C435.293 587.709 434.681 587.349 434.042 587.083L432 586.667H208ZM384 373.333C381.171 373.333 378.459 374.458 376.458 376.458C374.458 378.459 373.333 381.171 373.333 384V512C373.333 515.756 372.564 519.318 371.375 522.667H432C450.388 522.667 468.039 529.956 481.042 542.958C494.044 555.961 501.333 573.612 501.333 592V652.583C504.678 651.397 508.249 650.667 512 650.667H640C642.829 650.667 645.541 649.542 647.542 647.542C649.542 645.541 650.667 642.829 650.667 640V384C650.667 381.171 649.542 378.459 647.542 376.458C645.541 374.458 642.829 373.333 640 373.333H384ZM592 202.667C590.586 202.667 589.209 203.208 588.208 204.208C587.208 205.209 586.667 206.586 586.667 208V309.333H640C659.803 309.333 678.789 317.206 692.792 331.208C706.794 345.211 714.667 364.197 714.667 384V437.333H816C817.414 437.333 818.791 436.792 819.792 435.792C820.792 434.792 821.333 433.415 821.333 432V208C821.333 206.586 820.792 205.209 819.792 204.208C819.293 203.709 818.681 203.349 818.042 203.083L816 202.667H592Z" fill="black"/>
+</svg>

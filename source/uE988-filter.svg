@@ -1,27 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   width="1024"
-   height="1024"
-   viewBox="0 0 1024.00 1024.00"
-   enable-background="new 0 0 1024.00 1024.00"
-   xml:space="preserve"
-   id="svg4562"><metadata
-     id="metadata4568"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs4566"><linearGradient
-       osb:paint="solid"
-       id="linearGradient5239"><stop
-         id="stop5237"
-         offset="0"
-         style="stop-color:#41e7d0;stop-opacity:1;" /></linearGradient></defs><path
-     id="rect4539"
-     d="M 74 0 L 74 64 L 75.966797 64 L 448 548.63086 L 448 1024 L 576 1024 L 576 548.63086 L 948.0332 64 L 950 64 L 950 0 L 74 0 z "
-     style="opacity:0.98999999;fill:#7e00e3;fill-opacity:0.55276382;stroke:none;stroke-width:64;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></svg>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M853.333 128C864.649 128 875.498 132.498 883.5 140.5C891.502 148.502 896 159.351 896 170.667V263.292C896.008 280.114 892.685 296.791 886.25 312.333C879.816 327.868 870.391 341.987 858.5 353.875L682.667 529.667V810.667C682.669 818.78 680.353 826.737 676 833.583C671.647 840.425 665.427 845.895 658.083 849.333L653.5 851.167L397.5 936.5C391.086 938.636 384.225 939.188 377.542 938.167C370.866 937.144 364.52 934.575 359.042 930.625C353.56 926.672 349.079 921.475 346 915.458C342.921 909.44 341.332 902.761 341.333 896V549.792L161.292 351.792C142.075 330.656 130.46 303.695 128.333 275.208L128 265.667V170.667C128 159.351 132.498 148.502 140.5 140.5C148.502 132.498 159.351 128 170.667 128H853.333Z" fill="black"/>
+</svg>
